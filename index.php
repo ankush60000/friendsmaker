@@ -8,10 +8,13 @@
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
   </head>
   <body>
+    <?php include "add-ons/" ?>
     <div class="container">
-      <h1>Hack The World</h1>
     </div>
     <script src="bootstrap/jquery-3.4.1.min.js"></script>
+    <script src="bootstrap/opper.min.js">
+
+    </script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
   </body>
 </html>
