@@ -6,6 +6,6 @@
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
   </head>
   <body>
-    <p class="alert alert-success">hello world</p>
+    <p class="alert alert-success">hack the world</p>
   </body>
 </html>
