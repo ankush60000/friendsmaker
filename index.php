@@ -12,7 +12,11 @@
     <?php include "add-ons/main-menu.php"; ?>
     <div class="container">
     </div>
+<<<<<<< HEAD
 
+=======
+    <?php include "add-ons/footer.php"; ?>
+>>>>>>> ankush
     <script src="bootstrap/jquery-3.4.1.min.js"></script>
     <script src="bootstrap/popper.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
