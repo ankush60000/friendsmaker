@@ -1,11 +1,17 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html>
   <head>
     <meta charset="utf-8">
-    <title>FriendsMaker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Friends Maker</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
   </head>
   <body>
-    <p class="alert alert-success">hack the world</p>
+    <div class="container">
+      <h1>Hack The World</h1>
+    </div>
+    <script src="bootstrap/jquery-3.4.1.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
   </body>
 </html>
