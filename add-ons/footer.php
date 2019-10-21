@@ -34,6 +34,13 @@
   font-size: 10px;
   padding: 5px;
 }
+.footer_button{
+  border-radius: 5px;
+  background-color: #FCAA06;
+  color: #000000;
+  border: none;
+  margin:0px;
+}
 
 
 </style>
@@ -43,8 +50,10 @@
         <ul class="footer_ul">
           <li><a href="#">About</a></li>
           <li><a href="#">content</a></li>
-          <li><a href="#">work</a></li>
+          <li><a href="#">work</a></li> <br>
+         <button class="footer_button" type="button" name="REGISTER">Register</button>
          <p class="footer_para">All company right are reserved</p>
+
         </ul>
 
       </footer>
