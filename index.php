@@ -5,29 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Friends Maker</title>
-<<<<<<< HEAD
-    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
-<style media="screen">
-  body{
- height: 2000px;
- position: relative;
-  }
-</style>
-  </head>
-  <body>
-
-    <!-- Navigation -->
-    <?php include "add-ons/main-menu.php"; ?>
-    <div class="container">
-    </div>
-
-    <?php include "add-ons/footer.php"; ?>
-    <script src="bootstrap/jquery-3.4.1.min.js"></script>
-    <script src="bootstrap/popper.min.js"></script>
-    <script src="bootstrap/js/bootstrap.min.js"></script>
-  </body>
-</html>
-=======
     <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="style.css">
@@ -65,4 +42,3 @@
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> -->
     </body>
   </html>
->>>>>>> master
