@@ -2,23 +2,79 @@ body {
   position: relative;
 }
 
-#carouselExampleSlidesOnly {
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 600px) {
+  .carousel img {
+
+  }
+
+  #carouselExampleSlidesOnly {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: auto;
+  }
 }
 
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .carousel img {
+    top: -30vh;
+  }
+
+  #carouselExampleSlidesOnly {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 92.8vh;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .carousel img {
+    top: -60vh;
+    height: 92.8vh;
+  }
+
+  #carouselExampleSlidesOnly {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 92.8vh;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .carousel img {
+    top: -30vh;
+    height: 92.8vh;
+  }
+
+  #carouselExampleSlidesOnly {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 92.8vh;
+  }
+}
 .carousel-inner {
-  height: 92.8vh;
+
 }
 
 .carousel-item {
-  top: -30vh;
+  /* top: -30vh; */
 }
 
 .cus-img {
-  top: -15vh;
+  /* top: -15vh; */
 }
 
 .carousel-indicators li{
